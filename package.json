@@ -11,9 +11,11 @@
   "keywords": [],
   "author": "Lambda School",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
-    "knex": "^0.19.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.19.4",
     "sqlite3": "^4.0.9"
   },
   "devDependencies": {
